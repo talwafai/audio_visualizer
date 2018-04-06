@@ -9,6 +9,7 @@ var audioContext, audio, file, files, WIDTH, HEIGHT, src, anyl;
 
       console.log('start up with variables initialized');
 
+      
       /** tinygradient and tinycolor
         * THESE ARE NOT MY FUNCTIONS OR CODE, FREE USE FROM MIT
         * FOUND HERE: https://github.com/mistic100/tinygradient
